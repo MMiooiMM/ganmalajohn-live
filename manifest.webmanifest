@@ -1,0 +1,29 @@
+{
+  "name": "乾麻辣將",
+  "short_name": "乾麻辣將",
+  "description": "台灣十六張麻將，手機橫向跨裝置對戰。",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#111a27",
+  "background_color": "#111a27",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
